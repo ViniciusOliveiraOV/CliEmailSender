@@ -19,7 +19,7 @@ Envia e-mails com anexos via **Gmail OAuth2**, de forma segura, rápida e totalm
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-user/SecureEmailSender.git
+git clone https://github.com/ViniciusOliveiraOV/SecureEmailSender.git
 cd SecureEmailSender
 
 python -m venv venv
